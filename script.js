@@ -1,4 +1,4 @@
-function firstWord('see and stop') {
+function firstWord(s) {
   // your code here
 	let S = s.trim()
 	let ans = ''
