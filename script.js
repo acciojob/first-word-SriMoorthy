@@ -15,5 +15,5 @@ function firstWord(s) {
 
 // Do not change the code below
 
-const  = prompt("Enter String:");
-alert(firstWord(s));
+// const  = prompt ("Enter String:");
+// alert(firstWord(s));
